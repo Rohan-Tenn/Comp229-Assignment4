@@ -3,15 +3,6 @@ img{
     width:  250px;
 }
 
-.projects{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    color: black;
-    gap: 300px;
-    font-size: 20px;
-    padding-top: 30px;
-}
 
 
 
@@ -43,23 +34,23 @@ body{
     text-align: center;
 }
 
-.projects-table {
+.education-qualification-table {
   width: 100%;
 
   margin-top: 20px;
 }
 
-.projects-table th,
-.projects-table td {
+.education-qualification-table th,
+.education-qualification-table td {
   border: 1px solid #000000;
   padding: 10px;
   text-align: left;
 }
 
-.projects-table th {
+.education-qualification-table th {
   background-color: #000000;
 }
 
-.projects-table button {
+.education-qualification-table {
   margin-right: 8px;
 }

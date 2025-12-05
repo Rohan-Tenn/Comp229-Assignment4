@@ -36,3 +36,45 @@ textarea{
 b{
     color: black;
 }
+
+label{
+    font-size: 20px;
+    color: black;   
+}
+
+td{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+
+th{
+    color: #00bfff;
+
+}
+
+
+body{
+    text-align: center;
+}
+
+.contacts-table {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.contacts-table th,
+.contacts-table td {
+  border: 1px solid #000000;
+  padding: 10px;
+  text-align: left;
+}
+
+.contacts-table th {
+  background-color: #000000;
+}
+
+.contacts-table {
+  margin-right: 8px;
+}
