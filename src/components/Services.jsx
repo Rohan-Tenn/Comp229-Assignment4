@@ -5,6 +5,7 @@ import servers from '../assets/servers.png';
 export default function Services(){
     return(
         <>
+        <h1></h1>
         <h1>Services Offered</h1>
             <div class ="services-images">
 
